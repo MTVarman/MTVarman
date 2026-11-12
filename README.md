@@ -10,6 +10,8 @@ I run [Morphogenesis Analytics](https://morphalytica.com), a structural bioinfor
 
 | Date | What | Where |
 |---|---|---|
+| Nov 2026 | Any zinc with fewer than four Cys/His ligands is restrained to 2.30 Å by default (222 of 723 cryo-EM entries with such a site carry it; high-resolution X-ray says 2.03 Å) | [cctbx/cctbx_project #1301](https://github.com/cctbx/cctbx_project/issues/1301) |
+| Nov 2026 | Chlorophyll Mg–His is linked by default and restrained to 1.895 Å, then 2.300 Å after a June 2024 change, sigma 0.01 (X-ray: 2.20 Å) | [cctbx/cctbx_project #1300](https://github.com/cctbx/cctbx_project/issues/1300) |
 | Nov 2026 | *Two default metal restraints in cctbx/PHENIX and their exact-value fingerprints in the Protein Data Bank* (technical note): zinc restrained to 2.30 Å and chlorophyll magnesium to 1.895 Å by default settings, traced to the code, run on twelve builds, and counted across the archive | [Zenodo 10.5281/zenodo.24150338](https://doi.org/10.5281/zenodo.24150338) |
 | Oct 2026 | Audit tables archived as a citable dataset | [Zenodo 10.5281/zenodo.23441847](https://doi.org/10.5281/zenodo.23441847) |
 | Oct 2026 | Audit tables and reproducers: 491-site strict cut of unrecorded covalent bonds, LP-PDBBind cross-check, benchmark overlap, corrected Rascore table | [MTVarman/pdb-data-audits](https://github.com/MTVarman/pdb-data-audits) |
