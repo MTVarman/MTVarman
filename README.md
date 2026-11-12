@@ -10,6 +10,7 @@ I run [Morphogenesis Analytics](https://morphalytica.com), a structural bioinfor
 
 | Date | What | Where |
 |---|---|---|
+| Nov 2026 | *Two default metal restraints in cctbx/PHENIX and their exact-value fingerprints in the Protein Data Bank* (technical note): zinc restrained to 2.30 Å and chlorophyll magnesium to 1.895 Å by default settings, traced to the code, run on twelve builds, and counted across the archive | [Zenodo 10.5281/zenodo.24150338](https://doi.org/10.5281/zenodo.24150338) |
 | Oct 2026 | Audit tables archived as a citable dataset | [Zenodo 10.5281/zenodo.23441847](https://doi.org/10.5281/zenodo.23441847) |
 | Oct 2026 | Audit tables and reproducers: 491-site strict cut of unrecorded covalent bonds, LP-PDBBind cross-check, benchmark overlap, corrected Rascore table | [MTVarman/pdb-data-audits](https://github.com/MTVarman/pdb-data-audits) |
 | Oct 2026 | Identical ligand on the same protein labelled both covalent and non-covalent, 11 entries | [THGLab/LP-PDBBind #8](https://github.com/THGLab/LP-PDBBind/issues/8) |
