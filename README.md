@@ -10,6 +10,8 @@ I run [Morphogenesis Analytics](https://morphalytica.com), a structural bioinfor
 
 | Date | What | Where |
 |---|---|---|
+| Nov 2026 | *Undeclared substitutions in PDB entries do not track source organism; reference curation does* (preprint): across 44,607 entities from eight organisms, undeclared point substitutions do not track organism, but 70% of pig, 37% of dog, 20% of cat and 5% of horse entities have no same-species reviewed UniProt record to check a wildtype label against | [Zenodo 10.5281/zenodo.24194208](https://doi.org/10.5281/zenodo.24194208) |
+| Nov 2026 | *Anchor bonds of heme c and light-sensing pigments that are missing from Protein Data Bank connectivity records, and the 2.0 Å line that decides most of them* (technical note): 1,049 of 9,251 heme c and 3,885 of 13,972 phycobilin anchor bonds have no bond record, including 999 of the 1,004 heme c bonds modelled at 2.0 Å or more | [Zenodo 10.5281/zenodo.24153068](https://doi.org/10.5281/zenodo.24153068) |
 | Nov 2026 | At default settings, cctbx gives a lysine NZ within 2.20 Å of an ATP oxygen a bond restraint at 1.297 Å, sigma 0.01 (fragments, script and output) | [pdb-data-audits: n-o-link](https://github.com/MTVarman/pdb-data-audits/tree/main/release-audit/default-values/n-o-link) |
 | Nov 2026 | 78 of 191 Top-1-correct entries put the warhead beyond any covalent bond distance in the benchmark's own ground truth | [hf1s/CoFD-Bench #1](https://github.com/hf1s/CoFD-Bench/issues/1) |
 | Nov 2026 | Any zinc with fewer than four Cys/His ligands is restrained to 2.30 Å by default (222 of 723 cryo-EM entries with such a site carry it; high-resolution X-ray says 2.03 Å) | [cctbx/cctbx_project #1301](https://github.com/cctbx/cctbx_project/issues/1301) |
