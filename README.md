@@ -1,4 +1,4 @@
-# Michael Varman
+# Michael T. Varman
 
 Independent structural bioinformatics · Wasilla, Alaska
 
