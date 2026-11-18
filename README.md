@@ -10,8 +10,8 @@ I run [Morphogenesis Analytics](https://morphalytica.com), a structural bioinfor
 
 | Date | What | Where |
 |---|---|---|
-| Nov 2026 | *Bonds inside the processing distance window that the Protein Data Bank still leaves unrecorded, and how much of them the ligand code's history predicts* (technical note, v1.1) | [Zenodo 10.5281/zenodo.24285353](https://doi.org/10.5281/zenodo.24285353) |
 | Nov 2026 | *Protein–ligand bond records in the Protein Data Bank follow a distance table in its processing software, the bonds outside it are listed as close contacts, and the clash check gives boron a 0.20 Å radius* (technical note) | [Zenodo 10.5281/zenodo.24295881](https://doi.org/10.5281/zenodo.24295881) |
+| Nov 2026 | *Bonds inside the processing distance window that the Protein Data Bank still leaves unrecorded, and how much of them the ligand code's history predicts* (technical note) | [Zenodo 10.5281/zenodo.24285353](https://doi.org/10.5281/zenodo.24285353) |
 | Nov 2026 | *Unrecorded covalent bonds to cysteine concentrate by wwPDB processing site: a 24,144-entry scan of _struct_conn records, with two matched cases* (dataset; `unrecorded-covalent/cys-ligand-sites/`) | [Zenodo 10.5281/zenodo.24223029](https://doi.org/10.5281/zenodo.24223029) |
 | Nov 2026 | *Protein Data Bank entries whose primary citation has been retracted: which were obsoleted, which remain, and what the remaining entries record* (technical note) | [Zenodo 10.5281/zenodo.24211651](https://doi.org/10.5281/zenodo.24211651) |
 | Nov 2026 | *Undeclared substitutions in PDB entries do not track source organism; reference curation does* (preprint): across 44,607 entities from eight organisms, undeclared point substitutions do not track organism, but 70% of pig, 37% of dog, 20% of cat and 5% of horse entities have no same-species reviewed UniProt record to check a wildtype label against | [Zenodo 10.5281/zenodo.24194208](https://doi.org/10.5281/zenodo.24194208) |
